@@ -1,51 +1,56 @@
 # 👋 Hi, I'm Vedanti Dantwala
 
-🎓 Computer Science graduate student at **Arizona State University**  
-💻 Backend-heavy Software Engineer | Full Stack Developer | Cloud & DevOps Enthusiast  
-📍 Based in the United States | 🌐 Open to SDE Full-time roles (Backend/Fullstack, DevOps)
+🎓 MS in Computer Science, **Arizona State University**  
+💻 Software Engineer | Backend & Full-Stack | Cloud & DevOps  
+📍 United States | Open to **Full-Time SDE roles (Backend / Full-Stack / Platform)**
 
 ---
 
 ## 🚀 About Me
 
-I'm passionate about building scalable backend systems, developing microservices, and crafting cloud-native applications. I’ve contributed to impactful academic and industry projects, working with modern tech stacks including Java, Python, Spring Boot, AWS, Docker, Kubernetes, and more.
+I am a Software Engineer currently working at ASU’s Impact Lab, where I lead the end-to-end development of a **Software as a Medical Device (SaMD)** platform for seizure detection used in clinical research settings. I specialize in building **scalable backend systems**, cloud-native services, and production-ready applications.
 
-- 🏗 Built fault-tolerant distributed systems with MongoDB sharding & replication on AWS
-- 🔁 Automated deployment workflows using GitLab CI/CD and Docker
-- ⚙️ Developed 40+ RESTful APIs using MVC, integrated async queues (Redis), and optimized for <200ms latency
-- 🧠 Recently explored domain generalization in medical imaging and AI-powered resume screening tools
+I enjoy working on problems involving **distributed systems, APIs, data pipelines, and cloud infrastructure**, and I care deeply about clean code, performance, and reliability.
+
+**What I bring:**
+- 🏗 Designed and built backend services and APIs for real-world products  
+- ☁️ Deployed cloud-native systems using Docker, Kubernetes, and AWS  
+- 🔄 Implemented CI/CD pipelines for automated testing and delivery  
+- 📊 Built data-driven and ML-enabled systems in healthcare and analytics  
 
 ---
 
 ## 🔨 Tech Stack
 
 **Languages:** Java, Python, JavaScript, C++  
-**Frameworks:** Django, Flask, ReactJS, Spring Boot, Maven, Agile, JIRA, JUnit, Selenium, JMeter, Unix/Linux
+**Backend:** Spring Boot, Django, Flask, Node.js  
+**Frontend:** React, Next.js, REST APIs  
 **Databases:** PostgreSQL, MySQL, MongoDB, DynamoDB  
 **Cloud & DevOps:** AWS (EC2, S3, SQS, IAM), Docker, Kubernetes, Jenkins, GitHub Actions  
-**Data Tools:** Pandas, Matplotlib, Tableau, Power BI  
+**Testing & Tools:** JUnit, Selenium, JMeter, Git, Linux/Unix, Maven  
+**Data & Visualization:** Pandas, Tableau, Power BI, D3.js  
 
 ---
 
 ## 📌 Featured Projects
 
-- **🔊 Streamify – Distributed Audio Streaming App**  
-  Sharded MongoDB-based app on AWS EC2 with auto-failover and low-latency audio APIs.
+### 🔊 Streamify – Distributed Audio Streaming Platform  
+Scalable audio streaming backend deployed on AWS using MongoDB sharding and replication, supporting fault tolerance and low-latency APIs.
 
-- **📄 AI Resume Matcher**  
-  Google Gemini Vision API + Streamlit app to detect resume-job skill gaps with 95% accuracy.
+### 📄 AI Resume Matcher  
+AI-powered resume-to-job matching tool using Google Gemini Vision API and Streamlit to identify skill gaps with high accuracy.
 
-- **📚 EdConnect – Java Microservices System**  
-  Modular microservices (Spring Boot) with service discovery, Mongo/MySQL integration.
+### 📚 EdConnect – Java Microservices System  
+Modular microservices-based system built using Spring Boot with service discovery and MongoDB/MySQL integration.
 
-- **📈 Kronos – Incident Visualization Platform**  
-  Interactive D3.js visualizations highlighting news sentiment and media bias.
+### 📈 Kronos – Incident Visualization Platform  
+Interactive data visualization platform using D3.js to analyze news sentiment and media bias across large datasets.
 
 ---
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-Vedanti%20Dantwala-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/vedantidantwala)](https://linkedin.com/in/vedantidantwala)
+[![LinkedIn](https://img.shields.io/badge/-Vedanti%20Dantwala-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/vedantidantwala)  
 [![Gmail](https://img.shields.io/badge/-vedantidantwala@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:vedantidantwala@gmail.com)
 
 ---
