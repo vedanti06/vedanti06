@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vedanti Dantwala
 
-[![Resume](https://img.shields.io/badge/-View%20Resume-green?style=flat-square&logo=GoogleDrive&logoColor=white)]([https://drive.google.com/file/d/1AAT9xanysRkfEkPvbkLq_hPHK3SVUA51/view?usp=sharing])
+📄 **Resume:** [View my resume](https://drive.google.com/file/d/1AAT9xanysRkfEkPvbkLq_hPHK3SVUA51/view?usp=sharing)
 
 
 🎓 MS in Computer Science, **Arizona State University**  
