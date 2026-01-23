@@ -3,7 +3,7 @@
 📄 **Resume:** [View my resume](https://drive.google.com/file/d/1AAT9xanysRkfEkPvbkLq_hPHK3SVUA51/view?usp=sharing)
 
 
-🎓 MS in Computer Science, **Arizona State University**  
+🎓 Master's in Computer Science, **Arizona State University**  
 💻 Software Engineer | Backend & Full-Stack | Cloud   
 📍 United States | Open to **Full-Time SDE roles (Backend / Full-Stack / Platform)**
 
