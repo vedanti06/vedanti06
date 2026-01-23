@@ -10,7 +10,7 @@
 
 I am a Software Engineer currently working at ASU’s Impact Lab, where I lead the end-to-end development of a **Software as a Medical Device (SaMD)** platform for seizure detection used in clinical research settings. I specialize in building **scalable backend systems**, cloud-native services, and production-ready applications.
 
-I enjoy working on problems involving **distributed systems, APIs, data pipelines, and cloud infrastructure**, and I care deeply about clean code, performance, and reliability.
+I enjoy working on problems involving **distributed systems, APIs, algorithms, and cloud infrastructure**, and I care deeply about clean code, performance, and reliability.
 
 **What I bring:**
 - 🏗 Designed and built backend services and APIs for real-world products  
