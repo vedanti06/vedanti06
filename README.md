@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Vedanti Dantwala
 
 🎓 MS in Computer Science, **Arizona State University**  
-💻 Software Engineer | Backend & Full-Stack | Cloud & DevOps  
+💻 Software Engineer | Backend & Full-Stack | Cloud   
 📍 United States | Open to **Full-Time SDE roles (Backend / Full-Stack / Platform)**
 
 ---
