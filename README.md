@@ -6,7 +6,7 @@ I am a Software Engineer specializing in building highly scalable microservices,
 - 🚀 Previously built a clinical-grade SaMD (Software as a Medical Device) platform for seizure detection.
 - 🎓 Master’s in Computer Science from Arizona State University & Bachelor’s in Computer Engineering from Mumbai University.
 - 🛠️ Passionate about clean code, robust system design and automating end-to-end CI/CD pipelines.
-
+- **AWS AI Practicioner:** (https://www.credly.com/badges/49d91fe7-8894-4f5b-88e9-d3c927e9a208))
 ---
 
 ### 💻 Core Tech Stack & Tooling
@@ -48,6 +48,6 @@ A custom AI retrieval architecture utilizing **LangChain** and **ChromaDB** vect
 
 * **LinkedIn:** [linkedin.com/in/vedantidantwala](https://www.linkedin.com/in/vedantidantwala/)
 * **GitHub:** [@vedanti06](https://github.com/vedanti06)
-* **AWS AI Practicioner:** (https://www.credly.com/badges/49d91fe7-8894-4f5b-88e9-d3c927e9a208))
+
 
 *“Simplicity is the ultimate sophistication. I build software that scales, runs reliably, and solves real-world problems.”*
