@@ -7,18 +7,19 @@ I am a Software Engineer specializing in building highly scalable microservices,
 - 🎓 Master’s in Computer Science from Arizona State University & Bachelor’s in Computer Engineering from Mumbai University.
 - 🛠️ Passionate about clean code, robust system design and automating end-to-end CI/CD pipelines.
 - **AWS AI Practicioner:** (https://www.credly.com/badges/49d91fe7-8894-4f5b-88e9-d3c927e9a208))
+- Cloud enthusiast
 ---
 
 ### 💻 Core Tech Stack & Tooling
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Languages** | Java (21), Python, TypeScript, JavaScript, SQL, HTML/CSS |
-| **Frameworks & Backends** | Spring Boot, Django, Flask, Node.js |
+| **Languages** | Java (17/21), Python, TypeScript, JavaScript, SQL, HTML/CSS |
+| **Frameworks & Backends** | Spring Boot, Django, Flask, Maven, JUnit |
 | **Front-End Development** | React, Next.js, Redux, Tailwind CSS |
 | **Databases & Caching** | PostgreSQL, MySQL, MongoDB, Redis |
-| **Cloud, DevOps & Infra** | AWS, Docker, Kubernetes, OpenFaaS, Kafka, MinIO, Jenkins, CI/CD |
-| **AI & Architecture** | Retrieval-Augmented Generation (RAG), LLM Inference Orchestration, LangChain, ChromaDB | 
+| **Cloud, DevOps & Infra** | AWS, Docker, Kubernetes, Kafka, Jenkins, Terraform |
+| **AI & Architecture** | Retrieval-Augmented Generation (RAG), OpenAI API, LangChain, Prompt engineering, MCP | 
 
 ---
 
