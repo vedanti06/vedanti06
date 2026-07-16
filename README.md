@@ -2,7 +2,6 @@
 
 I am a Software Engineer specializing in building highly scalable microservices, backend architectures, and production-grade Cloud/AI solutions. My experience spans full-stack application development, distributed systems, and translating complex engineering requirements into robust, deployable software.
 
-- 💼 Currently working as a **Software Engineer (Contract)** at **Verizon**.
 - 🚀 Previously built a clinical-grade SaMD (Software as a Medical Device) platform for seizure detection.
 - 🎓 Master’s in Computer Science from Arizona State University & Bachelor’s in Computer Engineering from Mumbai University.
 - 🛠️ Passionate about clean code, robust system design and automating end-to-end CI/CD pipelines.
