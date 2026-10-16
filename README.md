@@ -38,12 +38,6 @@ A custom AI retrieval architecture utilizing **LangChain** and **ChromaDB** vect
 
 ---
 
-### 📈 GitHub Stats
-
-⚡ **My NeetCode Submissions:** Active problem solver keeping algorithms and data structures sharp. Check out my progress [here](https://github.com/vedanti06/neetcode-submissions-5jm3v4aw).
-
----
-
 ### 📫 Let's Connect!
 
 * **LinkedIn:** [linkedin.com/in/vedantidantwala](https://www.linkedin.com/in/vedantidantwala/)
